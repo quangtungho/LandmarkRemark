@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LandmarkRemark</string>
+    <string name="my_map_api_key">AIzaSyAClH2Nz34YiYFeRHsEXWPK4Ul_8mqRJkE</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_create_maps">CreateMapsActivity</string>
+    <string name="hint_edt_location">Nhập nội dung vị trí</string>
+    <string name="title_dialog_tv">Địa điểm muốn lưu</string>
+    <string name="tv_Save">Lưu</string>
+    <string name="tv_Delete">Xóa</string>
+    <string name="tv_Exit">Thoát</string>
+    <string name="tv_toast_edit">Bạn cần nhập nội dung vị trí lưu</string>
+    <string name="tv_location_me">Vị trí của tôi</string>
+    <string name="tv_confirm">Bạn có muốn xóa vị trí này không?</string>
+</resources>
